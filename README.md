@@ -12,7 +12,7 @@ nessus-scan-report/
 ├── README.md
 ├── nessus-vulnerability-report.md
 └── screenshots/
-    ├── vulnerability.png
+    ├── scan.png
     └── vulnerability.png
 ```
 
